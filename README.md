@@ -14,4 +14,4 @@ I created a notebook to demonstrate the use of k-means clustering with the sciki
 
 ## YouTube
 
-The workshop was recorded and uploaded to YouTube! You can watch the video [here].
+The workshop was recorded and uploaded to YouTube! You can watch the video [here](https://www.youtube.com/watch?v=127zPeHsFpU&ab_channel=UWaterlooDataScience).
